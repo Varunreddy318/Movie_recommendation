@@ -1,0 +1,6 @@
+{
+  "name": "Movie Recommendation Website",
+  "description": "A Netflix-inspired movie recommendation platform powered by a content-based machine learning engine (TF-IDF & Cosine Similarity) and an interactive Gemini AI movie advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
